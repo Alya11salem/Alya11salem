@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Alya and you can call me 'lulu'
+ 👋 Hi, I’m Alya 
+ 
+ 
+ 
+ 
 - 🎮 I’m interested in gaming and character design.
 -  I’m currently learning DS and GA.
 - 📫 You can reach me via 📇:alyamanqour@gmail.com
