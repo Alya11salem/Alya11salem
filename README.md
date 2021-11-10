@@ -4,7 +4,7 @@
  
  
 - 🎮 I’m interested in gaming and character design.
--  I’m currently learning DS and GA.
+-  I’m currently learning Data Science and GA.
 - 📫 You can reach me via 📇:alyamanqour@gmail.com
 
 <!---
